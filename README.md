@@ -1,5 +1,5 @@
-# Sofware version Babuino-Ballesta 2.0.0 (EagleXv2)
-Software for the Command_Center PC
+# Babuino-Ballesta: CMD 0.0.0 (EagleXv2)
+Software for the Command Center PC
 
 This sofware communicate a joy with **~~Trajinera-Lupita~~** for teleoperation.
 Also, data is received for display
