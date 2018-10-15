@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>front_end</name>
+  <version>0.0.0</version>
+  <description>
+        Front_end for the pilot.
+  </description>
+
+  <maintainer email="ivan.aochoa.g@hotmail.com">Ivan Ochoa</maintainer>
+
+  <license>Open</license>
+
+  <url type="website">https://github.com/scanf30/front_end.git</url> 
+
+  <author email="ivan.aochoa.g@hotmail.com">Ivan Ochoa</author>
+  <buildtool_depend>catkin</buildtool_depend>
+ 
+  <export>
+    <metapackage />
+  </export>
+</package>
